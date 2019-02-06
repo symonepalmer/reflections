@@ -1,0 +1,25 @@
+Symone's Version Control Lesson 1 Reflections (week 1)
+
+1) How did viewing a diff between two versions of a file help you report the bug?
+
+It was helpful to get a feel for the layout of code, learning to adjust your eyes to focus on certain areas of a file to find what you're looking for. The diff function is definitely helpful to someone like me who might feel overwhelmed searching line by line for file differences.
+
+2) How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+You can track your steps and better analyze your files and work history.
+
+3) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+You have better control over what changes you made, saving you time navigating to the correct change.
+
+4) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+My guess would be that programs like Google Docs don't keep track of "repositories"?
+
+5) How can you use the commands git log and git diff to view the history of files?
+
+Log reports the commits, diff hilights the differences between two selected commits (placing the newest version first, the previous version last)
+
+6) How might using version control make you more confident to make changes that could break something?
+
+Version control helps you feel more confident making significant changes because you know you have ready access to multiple checkpoints within your project.
