@@ -1,0 +1,9 @@
+Symone's Version Control Lesson 2 Reflections (week 1)
+
+1. What happens when you initialize a repository? Why do you need to do it?
+
+Git tells you where the new repo is located. You might need to create a new repo when there is not one to copy over to your computer.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is an added step 
