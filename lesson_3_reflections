@@ -11,7 +11,7 @@ So that you don't save unwanted changes
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+new branches help organize a project, clone copies a project from GitHub to my local, and fork copies a project from on GitHub account to another
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
